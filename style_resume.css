@@ -1,0 +1,74 @@
+/* @import url(); */
+
+body {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f1f1f1;
+}
+
+.avatar {
+    width: 200px;
+    /* border-radius: 30px; */
+}
+
+.info {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.info-text {
+color: #86898f;
+margin: 0;
+margin-left: 40px;
+}
+
+.job {
+    font-style: italic;
+}
+.com {
+    color: blue;
+    font-weight: bold;
+}
+.col {
+    color: green;
+}
+h1 {
+    color: blue;
+}
+
+.forma h2 {
+text-align: center;
+}
+
+.form-row {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.form-row .form-group {
+    /* display: inline-block; */
+    margin-right: 20px;
+    width: 50%;
+    /* width: calc(50%-15px); */
+}
+
+.form-row .form-group:last-child {
+    margin-right: 0;
+}
+
+.form-group {
+    display: block;
+    font-size: 14px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+}

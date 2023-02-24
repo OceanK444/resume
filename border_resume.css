@@ -1,0 +1,36 @@
+.card-1 {
+    border: 2px solid rgb(210, 216, 219);
+    border-radius: 10px;
+    /* color: aqua; */
+    margin-bottom: 10px;
+    padding: 10px;
+    background: rgb(210, 216, 219);
+}
+h1 {
+    padding-left: 10px;
+}
+.card-2 {
+    border: 2px solid rgb(191, 239, 234);
+    border-radius: 10px;
+    /* color: aqua; */
+    margin-bottom: 10px;
+    padding: 10px;
+    background: rgb(191, 239, 234);
+}
+.card-3 {
+    /* border: 2px solid ; */
+    border-radius: 10px;
+    /* color: aqua; */
+    margin-bottom: 10px;
+    padding: 10px;
+    background: rgb(240, 213, 244);
+
+}
+.card-4 {
+    border: 2px solid rgb(245, 245, 130);
+    border-radius: 10px;
+    /* color: aqua; */
+    margin-bottom: 10px;
+    padding: 10px;
+    background: rgb(245, 245, 130);
+}
